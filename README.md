@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)
+
 <!--
 **josnih21/josnih21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
