@@ -1,6 +1,6 @@
 # Welcome to my world 🚀👨🏽‍🚀
 
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there I'm José Ángel Nieda a junior software fullstack dev that loves music 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)
 
