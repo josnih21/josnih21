@@ -4,7 +4,7 @@
 
 <img src="https://github.com/josnih21/josnih21/blob/master/assests/robot.gif" width="60px">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)
+![twitter.com/josnih1](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)
 
 <!--
 **josnih21/josnih21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
