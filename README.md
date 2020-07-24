@@ -1,6 +1,8 @@
 # Welcome to my world 🚀👨🏽‍🚀
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there I'm José Ángel Nieda a junior software fullstack dev that loves music 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there I'm José Ángel Nieda a junior software fullstack dev
+
+<img src="https://github.com/josnih21/josnih21/blob/master/assests/robot.gif" width="29px">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)
 
