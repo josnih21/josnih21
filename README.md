@@ -3,7 +3,7 @@
 <img align='right' src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" width="300">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi! I'm José Ángel Nieda
-I'm a Junior FullStack Dev starting in this world of software development, passionate about tech, sci-fi and music, I'm born and race in a green paradise known as <b>La Palma (Canary Islands, Spain)</b> but I'm currently living in <b>Tenerife</b>
+I'm a Junior FullStack Dev starting in this world of software development, passionate about tech, sci-fi and music, I'm born and race in a green paradise known as <b>La Palma (Canary Islands, Spain)</b> but I'm currently living in <b>Tenerife</b> working as Software Developer as part of the great <a href='https://leanmind.es/en/'>Lean Mind</a> family.  
 
 ## &#x1f4c8; GitHub Stats
 
