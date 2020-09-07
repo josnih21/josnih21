@@ -12,7 +12,7 @@ I'm a Junior FullStack Dev starting in this world of software development, passi
 </a>
 
 ## 👽 You can find me on social media 
-[![Twitter: josnih1](https://img.shields.io/twitter/follow/josnih1?label=josnih&logo=twitter&style=for-the-badge)](https://twitter.com/josnih1)
+[![Twitter: josnih1](https://img.shields.io/twitter/follow/josnihDev?label=josnih&logo=twitter&style=for-the-badge)](https://twitter.com/josnihDev)
 
 <!--
 **josnih21/josnih21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
